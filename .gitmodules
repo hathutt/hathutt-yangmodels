@@ -4,3 +4,6 @@
 [submodule "public-yang"]
 	path = public-yang
 	url = https://github.com/YangModels/yang.git
+[submodule "dzs-netconf-yang"]
+	path = dzs-netconf-yang
+	url = http://hathu.ta@git.dzsi.net/scm/nos/dzs-netconf-yang.git
