@@ -1,3 +1,3 @@
-[submodule "public"]
-	path = public
+[submodule "standard/public"]
+	path = standard/
 	url = https://github.com/YangModels/yang
